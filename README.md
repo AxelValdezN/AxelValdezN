@@ -1,10 +1,8 @@
 # Axel Valdez
-Backend Developer
+Backend Developer | Junior in progress
 ---
-About Me
-
-I'm a backend developer focused on building software that is scalable, maintainable and easy to understand. I enjoy analyzing complex problems, designing structured solutions and turning ideas into reliable systems.
-My current focus is backend development with .NET and Python, API design, database modeling and software architecture. I also have a strong interest in project management and leading software projects from planning to delivery.
+Im backend developer focused on designing scalable and maintainable software.
+My interests are backend development, API design, software architecture and database modeling. I also enjoy planning projects and turning complex ideas into reliable systems.
 ---
 Tech Stack
 
